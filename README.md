@@ -1,2 +1,2 @@
-# -POO-2025.1
+# Programação Orientada a Objetos
 Repositório para a disciplina de Programação orientada a objetos
